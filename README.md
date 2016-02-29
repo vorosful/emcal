@@ -1,0 +1,2 @@
+# emcal
+EMCal simulations (sPHENIX)
